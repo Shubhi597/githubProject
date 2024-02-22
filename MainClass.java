@@ -3,6 +3,5 @@ class MainClass{
 
     System.out.print("Inside main.........")
     system.out.print("First commit attempted")
-
-    }
+    } 
 }
